@@ -1,0 +1,4 @@
+def funciton1()
+{
+alert()
+}
